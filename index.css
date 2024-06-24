@@ -1,9 +1,0 @@
-.gallery-item {
-  border: 10px solid red;
-  border-radius: 10px;
-  padding: 10px;
-}
-
-.gallery-item:hover {
-  border-color: blue;
-}
